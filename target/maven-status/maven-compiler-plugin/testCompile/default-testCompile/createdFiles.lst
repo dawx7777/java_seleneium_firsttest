@@ -1,0 +1,11 @@
+pages\BasePage.class
+tests\RegistrationTest.class
+Config\WebDriverSignleton.class
+pages\Profile.class
+pages\Home.class
+utility\DataFaker.class
+Config\TestConfig.class
+utility\Action.class
+pages\SignIn.class
+pages\SignUp.class
+utility\Screenshot.class
